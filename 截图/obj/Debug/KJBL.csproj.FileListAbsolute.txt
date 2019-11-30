@@ -1,0 +1,51 @@
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\bin\Debug\KJBL.exe
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\bin\Debug\KJBL.pdb
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\ResolveAssemblyReference.cache
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.BrushSet.resources
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.Form2.resources
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.frmMain.resources
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.PenSet.resources
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.Properties.Resources.resources
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.exe
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.pdb
+E:\办公文档\c#教材\2012改版\C# 案例教程(第二版)选题立项材料\C#案例教程代码代码\第五篇\第十二章\课件伴侣（图12-1）\obj\Debug\KJBL.Help.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\bin\Debug\KJBL.exe
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\bin\Debug\KJBL.pdb
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.csprojResolveAssemblyReference.cache
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.BrushSet.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Form2.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Help.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.frmMain.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.PenSet.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Properties.Resources.resources
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.csproj.GenerateResource.Cache
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.exe
+G:\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.pdb
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\bin\Debug\KJBL.exe
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\bin\Debug\KJBL.pdb
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.BrushSet.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Form2.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Help.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.frmMain.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.PenSet.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.Properties.Resources.resources
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.csproj.GenerateResource.cache
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.exe
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\obj\Debug\KJBL.pdb
+E:\BOOKCode\C#案例教程2\源代码\第五篇\第十二章\课件伴侣\bin\Debug\KJBL.exe.config
+N:\QQ截图\截图\bin\Debug\KJBL.exe.config
+N:\QQ截图\截图\bin\Debug\KJBL.exe
+N:\QQ截图\截图\bin\Debug\KJBL.pdb
+N:\QQ截图\截图\obj\Debug\KJBL.csprojAssemblyReference.cache
+N:\QQ截图\截图\obj\Debug\KJBL.BrushSet.resources
+N:\QQ截图\截图\obj\Debug\KJBL.Form2.resources
+N:\QQ截图\截图\obj\Debug\KJBL.Help.resources
+N:\QQ截图\截图\obj\Debug\KJBL.frmMainClib.resources
+N:\QQ截图\截图\obj\Debug\KJBL.frmMain.resources
+N:\QQ截图\截图\obj\Debug\KJBL.PenSet.resources
+N:\QQ截图\截图\obj\Debug\KJBL.Properties.Resources.resources
+N:\QQ截图\截图\obj\Debug\KJBL.csproj.GenerateResource.cache
+N:\QQ截图\截图\obj\Debug\KJBL.exe
+N:\QQ截图\截图\obj\Debug\KJBL.pdb
